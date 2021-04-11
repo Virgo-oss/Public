@@ -8,8 +8,13 @@ git merge
 2、本地对应文件将被更新。
 
 # 本地文件上传到 Github
-上传命令：git push origin <填写“交换分支或标签”>--进入github网址库，在点击code即可看到点击后的下方看到。
-例如：git push origin main/master
+1、项目完成后执行命令，添加要上传的文件：
+添加全部文件：git add .
+添加一个文件：git add <文件名>
+2、执行提交命令：
+git commit -m "描述信息(例如：添加 ** 文件)"
+3、执行上传命令：
+git push origin <branch> (默认为master)
 
 # 从远程仓库拉取文件，使用克隆命令
 git clone + 远程项目地址（HTTP地址或SSH地址）
