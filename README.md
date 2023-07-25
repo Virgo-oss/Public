@@ -1,6 +1,6 @@
 ## 提交到 Github
 
-#### - git remote add origin git@github.com:Virgo-oss/Blood.Dream.git
+- git remote add origin git@github.com:Virgo-oss/Blood.Dream.git
 
 ## 提取远程仓库
 
