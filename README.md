@@ -4,7 +4,7 @@ git remote add origin git@github.com:Virgo-oss/Blood.Dream.git
 
 # 提取远程仓库
 
-### 1、在网站上更新编辑记录后使用以下命令：
+##### 1、在网站上更新编辑记录后使用以下命令：
 
 git fetch
 
